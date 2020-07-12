@@ -1,4 +1,4 @@
-![Profile Banner](Banner.png)
+![Profile Banner](https://github.com/JTSchwartz/JTSchwartz/blob/master/Banner.png)
 <br/><br/>
 [![Website](https://img.shields.io/badge/%20-jtschwartz.com-%23145762?style=for-the-badge)](https://jtschwartz.com)
 [![Gmail Badge](https://img.shields.io/badge/-jacob@jtschwartz.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jacob@jtschwartz.com)](mailto:jacob@jtschwartz.com)
