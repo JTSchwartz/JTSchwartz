@@ -11,7 +11,7 @@ package ghProfile
 class About:Me {
     companion object {
         val almaMater = "University of Dayton"
-        var company = "Tata Consultancy Services"
+        var company = "Ford Motor Company"
         var position = "Software Developer"
     }
 
