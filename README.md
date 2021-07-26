@@ -7,27 +7,25 @@
 
 
 B.S. in Computer Science from the University of Dayton<br/>
-Software Developer at Tata Consultancy Services<br/>
+Full Stack Software Developer at Ford Motor Company<br/>
 
 ```kotlin
-package ghProfile
+package com.github.jtschwartz.profile
 
 class About:Me {
     companion object {
         val almaMater = "University of Dayton"
-        var company = "Tata Consultancy Services"
+        var company = "Ford Motor Company"
         var position = "Software Developer"
     }
 
     fun techStack() {
         val languages = arrayOf(
             "Kotlin",
-            "Python",
-            "Go",
-            "JavaScript",
-            "Dart",
             "Java",
-            "SQL"
+            "JavaScript",
+            "Python",
+            "Go"
         )
 
         return languages + platforms()
