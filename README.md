@@ -5,10 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@DevSchwartz-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DevSchwartz)](https://twitter.com/DevSchwartz)
 [![Linkedin Badge](https://img.shields.io/badge/-Jacob_Schwartz-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jacob-t-schwartz/)](https://www.linkedin.com/in/jacob-t-schwartz/) 
 
-
-B.S. in Computer Science from the University of Dayton<br/>
-Full Stack Software Developer at Ford Motor Company<br/>
-
 ```kotlin
 package com.github.jtschwartz.profile
 
