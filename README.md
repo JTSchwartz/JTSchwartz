@@ -11,8 +11,8 @@ package com.github.jtschwartz.profile
 class About:Me {
     companion object {
         val almaMater = "University of Dayton"
-        var company = "Ford Motor Company"
-        var position = "Software Developer"
+        var company = "Wells Fargo"
+        var position = "Lead Software Engineer"
     }
 
     fun techStack() {
