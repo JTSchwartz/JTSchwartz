@@ -2,7 +2,6 @@
 <br/><br/>
 [![Website](https://img.shields.io/badge/%20-jtschwartz.com-%23145762?style=for-the-badge)](https://jtschwartz.com)
 [![Gmail Badge](https://img.shields.io/badge/-jacob@jtschwartz.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jacob@jtschwartz.com)](mailto:jacob@jtschwartz.com)
-[![Twitter Badge](https://img.shields.io/badge/-@DevSchwartz-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DevSchwartz)](https://twitter.com/DevSchwartz)
 [![Linkedin Badge](https://img.shields.io/badge/-Jacob_Schwartz-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jacob-t-schwartz/)](https://www.linkedin.com/in/jacob-t-schwartz/) 
 
 ```kotlin
